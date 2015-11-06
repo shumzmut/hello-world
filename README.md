@@ -1,2 +1,8 @@
 # hello-world
-My repository
+
+Hello guys.
+
+First and foremost i'd like like to say hi. Then I'd like to say a bit about myself. Mmkay.
+I like Chapatis and samoosas too.
+Regards 
+Me
